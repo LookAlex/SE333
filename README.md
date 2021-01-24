@@ -1,1 +1,3 @@
-# SE333
+# SE333 Taken Autumn 2020-2021
+SE 333: Software Testing
+This course is designed for the software engineering professional to gain a greater understanding of the key ingredients in creating and/or managing a successful testing program to meet project needs. Topics covered include test lifecycle planning, test design & coverage analysis, complexity, levels of testing such as unit, integration, system, performance and stress testing. Best practice strategies in software testing such as verification & validation, early lifecycle testing, risk based testing and automation will also be examined including exposure to test automation methods and tools.
